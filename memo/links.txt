@@ -1,0 +1,14 @@
+https://github.com/spring-cloud/spring-cloud-dataflow
+
+src/docker-compose
+- https://github.com/spring-cloud/spring-cloud-dataflow/tree/main/src/docker-compose
+
+src/docker-compose/docker-compose-{broker}.yml
+e.g.
+- RabbitMQ 를 쓸거면 src/docker-compose/docker-compose-rabbitmq.yml 을 선택
+- influxdb 를 쓸거면 src/docker-compose/docker-compose-influxdb.yml 를 선택
+
+등등 여러가지 개발 용도의 docker-compose 를 제공해주고 있음
+
+
+
