@@ -1,5 +1,7 @@
 {
   "index": "Introduction",
+  "setup": "Setup",
+  "stream-processing": "Stream Processing",
   "contact": {
     "title": "Contact ↗",
     "type": "page",
